@@ -23,7 +23,10 @@ Research interest: trustworthy AI in healthcare.
 `Python` `FastAPI` `Docker` `n8n` `Qdrant` `Claude API` `Oracle PL/SQL` `MSSQL` `PostgreSQL` `React`
 
 ### 📌 Featured
-- [health-ai-ethics-rag](https://github.com/trgevent/health-ai-ethics-rag) — Rule-based RAG + LLM system that evaluates healthcare AI systems against EU AI Act, KVKK, GDPR and ISO 42001 (hybrid retrieval, 7-dimension rule engine, PDF reports)
+- [health-ai-ethics-rag](https://github.com/trgevent/health-ai-ethics-rag) — Rule-based RAG + LLM system that evaluates healthcare AI systems against EU AI Act, KVKK, GDPR and ISO 42001
+- [hospital-pharmacy-demand-forecasting](https://github.com/trgevent/hospital-pharmacy-demand-forecasting) — Segment-based drug demand forecasting (DNN, LightGBM, TSB) with FastAPI + n8n, turning forecasts into daily purchase lists
+- [healthcare-regulatory-change-monitor](https://github.com/trgevent/healthcare-regulatory-change-monitor) — Daily early-warning tool for SUT regulation and SGK Medula web service changes (case study)
+- [n8n-ai-appointment-agent](https://github.com/trgevent/n8n-ai-appointment-agent) — AI agent that books, reschedules and cancels appointments on Google Calendar via web form or chat API
 - [living-weather-multi-agent-system](https://github.com/trgevent/living-weather-multi-agent-system) — Multi-agent weather system built on graceful degradation (Kaggle AI Agents Intensive Capstone)
 
 ### 📫 Contact
