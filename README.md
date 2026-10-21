@@ -23,6 +23,7 @@ Research interest: trustworthy AI in healthcare.
 `Python` `FastAPI` `Docker` `n8n` `Qdrant` `Claude API` `Oracle PL/SQL` `MSSQL` `PostgreSQL` `React`
 
 ### 📌 Featured
+- [health-ai-ethics-rag](https://github.com/trgevent/health-ai-ethics-rag) — Rule-based RAG + LLM system that evaluates healthcare AI systems against EU AI Act, KVKK, GDPR and ISO 42001 (hybrid retrieval, 7-dimension rule engine, PDF reports)
 - [living-weather-multi-agent-system](https://github.com/trgevent/living-weather-multi-agent-system) — Multi-agent weather system built on graceful degradation (Kaggle AI Agents Intensive Capstone)
 
 ### 📫 Contact
